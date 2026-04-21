@@ -1,4 +1,4 @@
-a=10
+a=30
 b=20
 
 print(f"Addition of {a} and {b} is {a+b}")
