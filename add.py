@@ -1,4 +1,4 @@
-a=int(input("Enter a Number1: "))
-b=int(input("Enter a Number2: "))
+a=10
+b=20
 
 print(f"Addition of {a} and {b} is {a+b}")
