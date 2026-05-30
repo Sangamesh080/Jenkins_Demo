@@ -1,4 +1,4 @@
 a=60
-b=80
+b=50
 
 print(f"Addition of {a} and {b} is {a+b}")
